@@ -1,6 +1,5 @@
 # Shuffle Files
-
-![Shuffle Files Icon](https://www.creativefabrica.com/wp-content/uploads/2022/01/28/Shuffle-random-icon-Graphics-24251387-1.jpg)
+![Shuffle Files Icon](https://raw.githubusercontent.com/Luiz-Siqueira/ShuffleFiles/main/icon.ico)
 
 O repositório Shuffle Files oferece uma solução Python para renomear todos os arquivos de uma pasta de forma aleatória, trazendo uma abordagem criativa e imprevisível à organização de arquivos.
 
